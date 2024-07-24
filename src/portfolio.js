@@ -130,7 +130,7 @@ const educationInfo = {
       logo: require("./assets/images/Dr._A.P.J._Abdul_Kalam_Technical_University_logo.png"),
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "September 2019 - April 2023",
-      desc: "",
+      desc: "CGPA 8.12",
       descBullets: [
       
       ]
