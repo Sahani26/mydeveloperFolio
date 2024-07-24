@@ -11,7 +11,7 @@ export default function Footer() {
        
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
         Inspired by{" "}
-             @developerFolio
+             @CleverProgrammer
            
         </p>
       </div>
