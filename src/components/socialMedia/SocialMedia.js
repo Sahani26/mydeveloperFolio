@@ -20,38 +20,51 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.linkedin ? (
-        <a
-          href={socialMediaLinks.linkedin}
-          className="icon-button linkedin"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i className="fab fa-linkedin-in"></i>
-          <span></span>
-        </a>
-      ) : null}
+{socialMediaLinks.linkedin ? (
+  <a
+    href={socialMediaLinks.linkedin}
+    className="icon-button linkedin"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <i className="fab fa-linkedin"></i>
+    <span></span>
+  </a>
+) : null}
 
-      {socialMediaLinks.gmail ? (
-        <a
-          href={`mailto:${socialMediaLinks.gmail}`}
-          className="icon-button google"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i className="fas fa-envelope"></i>
-          <span></span>
-        </a>
-      ) : null}
+{socialMediaLinks.gmail ? (
+  <a
+    href={`mailto:${socialMediaLinks.gmail}`}
+    className="icon-button google"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <i className="fas fa-envelope"></i>
+    <span></span>
+  </a>
+) : null}
 
-      {socialMediaLinks.gitlab ? (
+{socialMediaLinks.whatsapp ? (
+  <a
+    href={`https://wa.me/${socialMediaLinks.whatsapp}`}
+    className="icon-button whatsapp"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+  <i class="fab fa-whatsapp"></i>
+    <span></span>
+  </a>
+) : null}
+
+
+      {socialMediaLinks.whatsApp ? (
         <a
-          href={socialMediaLinks.gitlab}
-          className="icon-button gitlab"
+          href={socialMediaLinks.whatsApp}
+          className="icon-button whatsapp"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-gitlab"></i>
+          <i className="fa fa-whatsapp"></i>
           <span></span>
         </a>
       ) : null}

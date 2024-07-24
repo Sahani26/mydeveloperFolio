@@ -43,7 +43,9 @@
 .gitlab i {
   background-color: $gitlab;
 }
-
+.whatsapp i {
+  background-color: $whatsapp;
+}
 .google i {
   background-color: $google;
 }
@@ -70,6 +72,7 @@
 
 /* Hover Transition */
 .twitter i:hover,
+.whatsapp i:hover,
 .google i:hover,
 .gitlab i:hover,
 .github i:hover,

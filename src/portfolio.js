@@ -38,8 +38,8 @@ const socialMediaLinks = {
   gmail: "sunilsahani484@gmail.com",
   gitlab: "https://github.com/Sahani26",
   facebook: "#",
-  medium: "#",
-  stackoverflow: "#",
+ 
+  whatsapp:"9695839080",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
