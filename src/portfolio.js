@@ -211,19 +211,75 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "My Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
+      image: require("./assets/images/buldel.jpg"),
+      projectName: "Buldel",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://buldel.vercel.app/"
+
+         
+        },
+        {
+      
+
+         name: "Git-code",
+          url: "https://github.com/Sahani26/buldel",
+           icon: "fab fa-github"
         }
+        
         //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Text Analysis",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://text-analysis-toolbox-coral.vercel.app/"
+        },
+        {
+      
+
+          name: "Git-code",
+           url: "https://github.com/Sahani26/Text-Analysis-Toolbox",
+            icon: "fab fa-github"
+         }
+      ]
+    },
+    {
+      image: require("./assets/images/eye.png"),
+      projectName: "eye Hospital",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://asgeye-hospital.vercel.app/"
+        },     {
+      
+
+          name: "Git-code",
+           url: "https://github.com/Sahani26/ASGEYE_HOSPITAL",
+            icon: "fab fa-github"
+         }
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Nextu",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://nextu.se/"
+        }
       ]
     },
     {
