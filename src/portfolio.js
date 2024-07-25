@@ -177,10 +177,10 @@ const workExperiences = {
       company: "Vermillion Tech",
       companylogo: require("./assets/images/Name-And-Icon-Png-scaled.jpg"),
       date: "feb 2024 – march 2024",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Build a hospital website using react bootstrap node and express",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "patient dashboard book appointment view helth report",
+        "Admin panel which are manage all things like manage doctor ,ambulance ,patient etc"
       ]
     },
     // {
