@@ -215,9 +215,31 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
+      image: require("./assets/images/blog.jpg.webp"),
+      projectName: "blog",
+      projectDesc: "Create only front page",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://frnt-vert.vercel.app/"
+
+         
+        },
+        {
+      
+
+         name: "Git-code",
+          url: "https://github.com/Sahani26/1-3-BLOGWEB-TY",
+           icon: "fab fa-github"
+        }
+        
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/buldel.jpg"),
       projectName: "Buldel",
-      projectDesc: "Create only front page",
+      projectDesc: "Create only front page and api",
       footerLink: [
         {
           name: "Visit Website",
