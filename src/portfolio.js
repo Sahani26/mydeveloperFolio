@@ -217,7 +217,7 @@ const bigProjects = {
     {
       image: require("./assets/images/blog.jpg.webp"),
       projectName: "blog",
-      projectDesc: "Create only front page",
+      projectDesc: "Create only front page and api ,integration",
       footerLink: [
         {
           name: "Visit Website",
@@ -239,7 +239,7 @@ const bigProjects = {
     {
       image: require("./assets/images/buldel.jpg"),
       projectName: "Buldel",
-      projectDesc: "Create only front page and api",
+      projectDesc: "Create only front page ",
       footerLink: [
         {
           name: "Visit Website",
