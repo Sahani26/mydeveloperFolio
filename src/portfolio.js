@@ -183,20 +183,22 @@ const workExperiences = {
         "Admin panel which are manage all things like manage doctor ,ambulance ,patient etc"
       ]
     },
-    // {
-    //   role: "Front-End Developer",
-    //   company: "Quora",
-    //   companylogo: require("./assets/images/quoraLogo.png"),
-    //   date: "May 2017 – May 2018",
-    //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    // },
-    // {
+     {
+       role: "Web Developer",
+       company: "ForeFront Infotech",
+       companylogo: require("./assets/images/quoraLogo.png"),
+      date: "Aug 2024 – Till Date",
+       desc: "Front-End Development: Building the visible and interactive parts of a website, such as layouts, navigation, and user interfaces, using technologies like HTML, CSS, and JavaScript.
+Back-End Development: Creating and managing the server-side logic, databases, and application functionality using languages like MVC, .net, C#, SQL,ASP.net
+         "
+     },
+   //  {
     //   role: "Software Engineer Intern",
-    //   company: "Airbnb",
-    //   companylogo: require("./assets/images/airbnbLogo.png"),
-    //   date: "Jan 2015 – Sep 2015",
-    //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    // }
+    //  company: "Airbnb",
+    //  companylogo: require("./assets/images/airbnbLogo.png"),
+    //  date: "Jan 2015 – Sep 2015",
+  //  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+// }
   ]
 };
 
