@@ -186,7 +186,7 @@ const workExperiences = {
      {
        role: "Web Developer",
        company: "ForeFront Infotech",
-       companylogo: require("./assets/images/quoraLogo.png"),
+       companylogo: require("./assets/images/forefront.png"),
       date: "Aug 2024 – Till Date",
        desc: "Front-End Development: Building the visible and interactive parts of a website, such as layouts, navigation, and user interfaces, using technologies like HTML, CSS, and JavaScript.
 Back-End Development: Creating and managing the server-side logic, databases, and application functionality using languages like MVC, .net, C#, SQL,ASP.net
