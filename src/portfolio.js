@@ -128,7 +128,7 @@ const educationInfo = {
     {
       schoolName: "Uttar Pradesh Technical University",
       logo: require("./assets/images/Dr._A.P.J._Abdul_Kalam_Technical_University_logo.png"),
-      subHeader: "Bachelor of Technology in Computer Science",
+      subHeader: "Bachelor of Technology in ECE",
       duration: "September 2019 - April 2023",
       desc: "CGPA 8.12",
       descBullets: [
